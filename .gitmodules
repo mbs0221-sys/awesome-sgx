@@ -1,0 +1,78 @@
+[submodule "sgx101-gitbook"]
+	path = sgx101-gitbook
+	url = https://github.com/sslab-gatech/sgx101-gitbook.git
+[submodule "sgx-lkl"]
+	path = sgx-lkl
+	url = https://github.com/lsds/sgx-lkl.git
+[submodule "sgx-reencrypt"]
+	path = sgx-reencrypt
+	url = https://github.com/kudelskisecurity/sgx-reencrypt.git
+[submodule "bioinfo-meets-sgx"]
+	path = bioinfo-meets-sgx
+	url = https://github.com/StanPlatinum/bioinfo-meets-sgx.git
+[submodule "incubator-teaclave-sgx-sdk"]
+	path = incubator-teaclave-sgx-sdk
+	url = https://github.com/apache/incubator-teaclave-sgx-sdk.git
+[submodule "linux-sgx"]
+	path = linux-sgx
+	url = https://github.com/intel/linux-sgx.git
+[submodule "linux-sgx-cat"]
+	path = linux-sgx-cat
+	url = https://github.com/StanPlatinum/linux-sgx-cat.git
+[submodule "occlum"]
+	path = occlum
+	url = https://github.com/occlum/occlum.git
+[submodule "opensgx"]
+	path = opensgx
+	url = git@github.com:sslab-gatech/opensgx.git
+[submodule "reproduce-asplos20"]
+	path = reproduce-asplos20
+	url = https://github.com/occlum/reproduce-asplos20.git
+[submodule "sgxbounds"]
+	path = sgxbounds
+	url = https://github.com/tudinfse/sgxbounds.git
+[submodule "SGXCryptoFile"]
+	path = SGXCryptoFile
+	url = https://github.com/rscosta/SGXCryptoFile.git
+[submodule "sgxdedup"]
+	path = sgxdedup
+	url = https://github.com/jingwei87/sgxdedup.git
+[submodule "SGXGauge"]
+	path = SGXGauge
+	url = https://github.com/srsarangi/SGXGauge.git
+[submodule "sgxjail"]
+	path = sgxjail
+	url = git@github.com:IAIK/sgxjail.git
+[submodule "sgxlock"]
+	path = sgxlock
+	url = git@github.com:blocksecteam/sgxlock.git
+[submodule "sgx-migration"]
+	path = sgx-migration
+	url = https://github.com/SSGAalto/sgx-migration.git
+[submodule "SgxPectre"]
+	path = SgxPectre
+	url = git@github.com:OSUSecLab/SgxPectre.git
+[submodule "sgxrop"]
+	path = sgxrop
+	url = https://github.com/IAIK/sgxrop.git
+[submodule "sgx-sample"]
+	path = sgx-sample
+	url = https://github.com/jovanbulck/sgx-sample.git
+[submodule "SGX-Shield"]
+	path = SGX-Shield
+	url = https://github.com/jaebaek/SGX-Shield.git
+[submodule "sgx-tutorial-ccs17"]
+	path = sgx-tutorial-ccs17
+	url = https://github.com/sslab-gatech/sgx-tutorial-ccs17.git
+[submodule "sgx-tutorial-space18"]
+	path = sgx-tutorial-space18
+	url = https://github.com/jovanbulck/sgx-tutorial-space18.git
+[submodule "sgx-wallet"]
+	path = sgx-wallet
+	url = https://github.com/asonnino/sgx-wallet.git
+[submodule "tsx-in-sgx"]
+	path = tsx-in-sgx
+	url = https://github.com/StanPlatinum/tsx-in-sgx.git
+[submodule "Tutorial-Password-Manager-with-Intel-SGX"]
+	path = Tutorial-Password-Manager-with-Intel-SGX
+	url = https://github.com/IntelSoftware/Tutorial-Password-Manager-with-Intel-SGX.git
