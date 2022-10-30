@@ -109,3 +109,9 @@
 [submodule "PopSGX"]
 	path = PopSGX
 	url = https://github.com/Zildj1an/PopSGX.git
+[submodule "DEBE"]
+	path = DEBE
+	url = https://github.com/yzr95924/DEBE.git
+[submodule "mnist-in-enclave"]
+	path = mnist-in-enclave
+	url = https://github.com/StanPlatinum/mnist-in-enclave.git
