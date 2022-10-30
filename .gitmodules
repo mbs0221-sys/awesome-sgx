@@ -76,3 +76,36 @@
 [submodule "Tutorial-Password-Manager-with-Intel-SGX"]
 	path = Tutorial-Password-Manager-with-Intel-SGX
 	url = https://github.com/IntelSoftware/Tutorial-Password-Manager-with-Intel-SGX.git
+[submodule "Aurora"]
+	path = Aurora
+	url = https://github.com/Maxul/Aurora.git
+[submodule "Panoply"]
+	path = Panoply
+	url = https://github.com/shwetasshinde24/Panoply.git
+[submodule "linux-sgx-mage"]
+	path = linux-sgx-mage
+	url = https://github.com/donnod/linux-sgx-mage.git
+[submodule "Awesome-SGX-Open-Source"]
+	path = Awesome-SGX-Open-Source
+	url = https://github.com/Maxul/Awesome-SGX-Open-Source.git
+[submodule "linux-sgx-driver"]
+	path = linux-sgx-driver
+	url = https://github.com/intel/linux-sgx-driver.git
+[submodule "TresorSGX"]
+	path = TresorSGX
+	url = https://github.com/ayeks/TresorSGX
+[submodule "atc22-ae"]
+	path = atc22-ae
+	url = https://github.com/HyperEnclave/atc22-ae.git
+[submodule "0xbadc0de"]
+	path = 0xbadc0de
+	url = https://github.com/jovanbulck/0xbadc0de.git
+[submodule "tutorial-dsn18"]
+	path = tutorial-dsn18
+	url = https://github.com/sancus-tee/tutorial-dsn18.git
+[submodule "uranus"]
+	path = uranus
+	url = https://github.com/hku-systems/uranus.git
+[submodule "PopSGX"]
+	path = PopSGX
+	url = https://github.com/Zildj1an/PopSGX.git
