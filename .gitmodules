@@ -115,3 +115,6 @@
 [submodule "mnist-in-enclave"]
 	path = mnist-in-enclave
 	url = https://github.com/StanPlatinum/mnist-in-enclave.git
+[submodule "stealthdb"]
+	path = cryptograph/stealthdb
+	url = https://github.com/cryptograph/stealthdb
